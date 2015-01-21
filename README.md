@@ -8,8 +8,13 @@ Pass a date, get back a boolean. Is timezone aware.
 
 - [Install](#install)
 - [Usage](#usage)
+- [Methods](#methods)
+  - [get `(<Date> date[, <String> sourceTimezone[, <String> destinationTimezone]])`](#get-date-date-string-sourcetimezone-string-destinationtimezone)
+    - [Arguments](#arguments)
+- [Tests](#tests)
 - [Developing](#developing)
   - [Requirements](#requirements)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
