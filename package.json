@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "name": "is-business-day",
   "description": "Pass a date, get back a boolean. Is timezone aware.",
   "author": {
